@@ -1,0 +1,9 @@
+MIS 5 CLASES TÉCNICAS
+Estudiante: Ian Enamorado
+Docente: Defford García
+
+Para publicar: sube TODOS los archivos HTML, estilos.css, script.js y la carpeta img a la raíz del repositorio de GitHub. En Settings > Pages, elige Deploy from a branch, main y /(root). Abre el enlace que indique GitHub Pages.
+
+El sitio funciona sin conexión a internet una vez descargados los archivos.
+
+Nota: la sección de bombillo incluye una práctica segura de LED de bajo voltaje porque el nombre exacto del proyecto no estaba claro.
